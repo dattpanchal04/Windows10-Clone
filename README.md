@@ -1,6 +1,11 @@
 
 # Windows 10 Clone using HTML, CSS & JavaScript
 
+- Preview
+
+![win10](https://user-images.githubusercontent.com/94067118/155178756-055c0222-3137-4600-9ebb-671802091700.png)
+
+
 Hi dear, I created Windows 10 clone using HTML, CSS and JavaScript. This is not responsive so you can only view this clone perfectly in your PC or Laptop. So, check out this amazing windows 10 clone. Thank you for visit !
 
 ## Authors
